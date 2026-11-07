@@ -32,6 +32,9 @@ O processo de ambiente, entrevista, análise de referências, plano de oito etap
 
 O checkpoint `montagem.md` registra a criação do fluxo pessoal. O estado `_EDICAO/projeto.json` pertence a cada vídeo e não substitui esse checkpoint. A skill mestra gerada aceita projetos antigos com `_CLAUDE/projeto.json`, consultando esse arquivo no local sem renomeá-lo.
 
-## Alterações fora do pacote
+## Publicação
 
-Nenhum arquivo foi enviado, publicado ou alterado no GitHub. O fork do usuário estava marcado como público, e a instrução anterior do usuário exige privacidade para os repositórios. Este pacote foi preparado localmente para revisão antes de qualquer integração no GitHub.
+- Em 2026-11-07, o usuário autorizou publicar esta migração no fork público indicado.
+- Os 24 arquivos do pacote foram adicionados sob `codex/` na branch `main`, commit `9685c22bbf029109c2975085ba6c5dc7b19b5d70`.
+- A comparação com o commit anterior registra 24 arquivos adicionados e nenhum arquivo original alterado ou removido.
+- O repositório continua público; nenhum ajuste de visibilidade foi feito.
