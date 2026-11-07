@@ -1,4 +1,17 @@
-# Fluxo de edição com o Claude Code
+# Fluxo de edição
+
+Este repositório mantém a versão original para Claude Code na raiz e a migração para Codex em `codex/`. A versão Codex foi organizada separadamente para preservar os arquivos originais.
+
+## Versão Codex
+
+- [Instalação e uso](codex/README.md)
+- [Skill principal](codex/.agents/skills/fluxo-de-edicao/SKILL.md)
+- [Registro da migração](codex/MIGRACAO-CODEX.md)
+
+Para usar a skill do projeto, abra a pasta `codex/` como projeto no Codex e invoque `$fluxo-de-edicao`. A estrutura segue o diretório de skills de projeto do Codex, `.agents/skills/`.
+
+## Versão original (Claude Code)
+
 
 Uma skill gratuita que te guia, passo a passo, a montar o **seu** fluxo de edição de vídeo com o Claude Code: cortes, animações, movimentos de câmera e efeitos sonoros, no seu estilo.
 
